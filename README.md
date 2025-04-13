@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Javascript,TypeScript, React,Angular, and Nodejs**
 - 👯 I’m looking to collaborate on **open source frontend projects**
 - 💬 Ask me about **HTML, CSS, JS, React, Angular**
-- 📫 How to reach me: [your-shaikhsaddam30@gmail.com]
+- 📫 How to reach me: shaikhsaddam30@gmail.com
 - 📄 Know about my experiences: https://saddam.shaikh_about.com
 - ⚡ Fun fact: [Something fun! Like “I can debug CSS in my sleep 😴”]
 
@@ -16,5 +16,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,git,github,vscode,angular" />
 </p>
